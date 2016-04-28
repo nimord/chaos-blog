@@ -46,6 +46,9 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+        随笔: essay
+        技术: technology
+        其他: other
 tag_map:
 
 # Date / Time format
